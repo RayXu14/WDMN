@@ -30,5 +30,12 @@ This is the orinal implementation for wide-and-deep matching network (WDMN). [*R
     .../WDMN/code/WDMN$ bash run.sh # please make sure the environment is set up properly
     ```
 
+## Metrics
+| Dataset | R_2@1 | R_10@1 | R_10@2 | R_10@5 | MAP | MRR | P@1 |
+| ------------------------ | ------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| Ubuntu [(Lowe et al., 2015)](https://www.aclweb.org/anthology/W15-4640.pdf) | 0.957 | 0.821 | 0.911 | 0.981 | - | - | - |
+| Douban [(Wu et al., 2017)](https://www.aclweb.org/anthology/P17-1046.pdf) | - | 0.301 | 0.460 | 0.799 | 0.594 | 0.644 | 0.490 |
+| E-commerce [(Zhang et al., 2018)](https://www.aclweb.org/anthology/C18-1317.pdf) | - | 0.651 | 0.814 | 0.952 | - | - | - |
+
 ## Citation
 The paper will be published on TOIS (the ACM Transactions on Information Systems) soon.
