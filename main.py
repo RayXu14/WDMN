@@ -213,7 +213,7 @@ if __name__ == "__main__":
             print("MRR: %.3f" % (mrr10))
             print("**********************************")
 
-            return MeanLoss, recall_at_1
+            return MeanLoss, recall_2_1 + recall_at_1
             
         if FLAGS.reload_model:
             ''' Evaluating reloaded model '''

@@ -32,7 +32,6 @@ def get_args():
     tf.flags.DEFINE_integer("num_epochs", 2000000, "Number of training epochs")
     tf.flags.DEFINE_integer("print_every", 50, "Print the results after this many steps")
     tf.flags.DEFINE_integer("eval_every", 50000, "Evaluate model after this many step")
-    tf.flags.DEFINE_integer("checkpoint_every", 1250000, "Save model after this many step")
 
     tf.flags.DEFINE_boolean("reload_model", False, "Allow reload the model")
     tf.flags.DEFINE_string('log_root', 'debug/', 'Root directory for all logging.')
