@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 nohup python -u main.py --log_root results/ubuntu --data_path ../../data/ubuntu_data > logs/ubuntu & # train WDMN on the Ubuntu data
