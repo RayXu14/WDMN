@@ -30,7 +30,7 @@ This is the orinal implementation for wide-and-deep matching network (WDMN). [*R
     .../WDMN/code/WDMN$ bash run.sh # please make sure the environment is set up properly
     ```
 
-## Metrics
+## Results
 | Dataset | R_2@1 | R_10@1 | R_10@2 | R_10@5 | MAP | MRR | P@1 |
 | ------------------------ | ------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | Ubuntu [(Lowe et al., 2015)](https://www.aclweb.org/anthology/W15-4640.pdf) | 0.957 | 0.821 | 0.911 | 0.981 | - | - | - |
