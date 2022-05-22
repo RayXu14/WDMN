@@ -38,4 +38,4 @@ This is the original implementation for wide-and-deep matching network (WDMN). [
 | E-commerce [(Zhang et al., 2018)](https://www.aclweb.org/anthology/C18-1317.pdf) | - | 0.669 | 0.831 | 0.956 | - | - | - |
 
 ## Citation
-The paper will be published on TOIS (the ACM Transactions on Information Systems) soon.
+The paper is published at TOIS, 2021 and will be presented at SIGIR, 2022.
