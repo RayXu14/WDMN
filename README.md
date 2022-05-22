@@ -1,5 +1,5 @@
 # WDMN
-This is the orinal implementation for wide-and-deep matching network (WDMN). [*Response Ranking with Multi-Types of Deep Interactive Representations in Retrieval-based Dialogues*.]
+This is the original implementation for wide-and-deep matching network (WDMN). [*Response Ranking with Multi-Types of Deep Interactive Representations in Retrieval-based Dialogues*.]
 
 ## Requirements
 ### Option 1: using container image
