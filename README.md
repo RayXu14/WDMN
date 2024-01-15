@@ -20,6 +20,7 @@ This is the original implementation for wide-and-deep matching network (WDMN). [
     .../WDMN$ unrar x dataset.rar data
     ```
     > Thank [ chunyuanY ](https://github.com/chunyuanY) for providing the data.
+    > In case you cannot download that data, use this [link](https://www.dropbox.com/scl/fo/awiumbs5ovr8yhtubsm08/h?rlkey=bfumvbusd1xlwouck7uumvwxw&dl=0) (need not to unrar it)
 3. Set up the environment (see **Requiments** above)
 4. Clone this reposity and train WDMN
     ```bash
